@@ -1,0 +1,1 @@
+This repository showcases an uncommon bug in Ruby related to setting an instance variable to an empty string. The bug is demonstrated in `bug.rb` and a solution is provided in `bugSolution.rb`.  The issue is subtle and might be missed during testing.
